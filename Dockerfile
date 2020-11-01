@@ -20,5 +20,3 @@ RUN apk add --update --no-cache --repository="http://dl-cdn.alpinelinux.org/alpi
     python3 \
     libuv \
     npm
-
-ENTRYPOINT ["/bin/bash"]
