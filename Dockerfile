@@ -18,5 +18,4 @@ RUN apk add --update --no-cache --repository="http://dl-cdn.alpinelinux.org/alpi
     bash-completion \
     grep \
     python3 \
-    libuv \
-    npm
+    libuv
